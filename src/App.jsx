@@ -65,7 +65,7 @@ const App = () => {
           {activeModule.toUpperCase().replace('M', 'MÓDULO ')}
         </span>
         <a 
-          href={`/${getPptxName(activeModule)}`} 
+          href={`${import.meta.env.BASE_URL}${getPptxName(activeModule)}`} 
           download 
           className="btn-download"
           title="Baixar PPTX"
