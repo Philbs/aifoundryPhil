@@ -61,13 +61,13 @@ const M03 = [
   { id: 4, title: "Intent Recognition", description: "Identifique o 'porquê' do hóspede. Diferencie 'Quero reservar' de 'Quero cancelar' com 60% mais precisão.", image: "images/img5.png" },
   { id: 5, title: "Summarization para Call Centers", description: "Mapeie automaticamente o histórico da chamada: Recapitulativo, Problema e Resolução final do chamado.", image: "images/img32.png" },
   { id: 6, title: "Recap, Issue & Resolution", description: "Markers automáticos que reduzem o trabalho manual do staff e organizam o conhecimento histórico do hotel.", image: "images/img10.png" },
-  { id: 7, title: "Named Entity Recognition (NER)", description: "Extração automática de nomes, datas, locais e moedas diretamente do texto digitado pelo hóspede.", image: "images/img26.png" },
+  { id: 7, title: "Named Entity Recognition (NER)", description: "Extração automática de nomes, dates, locais e moedas diretamente do texto digitado pelo hóspede.", image: "images/img26.png" },
   { id: 8, title: "Travel Summary Demo", description: "Processamento de itinerários complexos: identifique horários de chegada e necessidades especiais de forma automática.", image: "images/img15.png" },
   { id: 9, title: "Multilingual Engagement", description: "Quebre barreiras. O Azure NLU entende dezenas de idiomas, fazendo com que cada hóspede estrangeiro se sinta em casa.", image: "images/img26.png" },
   { id: 10, title: "Dynamic Language Detection", description: "O sistema detecta o idioma original, traduz em tempo real e processa a intenção sem interrupção para o atendente.", image: "images/img5.png" },
   { id: 11, title: "Ganhos em Eficiência", description: "Redução drástica em roteamento incorreto de tickets. O hóspede certo chega ao departamento certo mais rápido.", image: "images/img20.png" },
   { id: 12, title: "Captura Automática de Dados", description: "Libere sua equipe de tarefas repetitivas de cadastro para que possam focar na hospitalidade genuína e VIP.", image: "images/img25.png" },
-  { id: 13, title: "Azure AI Vision", description: "Permita que seu agente 'enxergue'. Processamento de passaportes, cartões de crédito e danos em infraestrutura via fotos.", image: "images/img12.png" },
+  { id: 13, title: "Azure AI Vision", description: "Permita que seu agente 'enxerguem'. Processamento de passaportes, cartões de crédito e danos em infraestrutura via fotos.", image: "images/img12.png" },
   { id: 14, title: "OCR e Form Recognition", description: "Transforme documentos físicos e formulários manuscritos em dados estruturados para o seu sistema de reservas.", image: "images/img13.png" },
   { id: 15, title: "Azure AI Speech", description: "Interação por voz. Adicione uma interface amigável para check-ins via quiosques ou suporte telefônico inteligente.", image: "images/img33.png" },
   { id: 16, title: "Realistic Neural Voices", description: "Sintetize falas que soam humanas e empáticas, perfeitamente alinhadas ao tom de voz profissional do seu hotel.", image: "images/img23.png" },
@@ -98,8 +98,6 @@ const M04 = [
   { id: 18, title: "Workshop de Portfólio", description: "Documente seu processo de teste. Profissionais de IA são valorizados por como GARANTEM a segurança da solução.", image: "images/img9.png" },
   { id: 19, title: "Responsible AI Standards", description: "Siga os princípios da Microsoft: Justiça, Confiabilidade, Privacidade, Segurança, Inclusão e Transparência.", image: "images/img27.png" },
   { id: 20, title: "Conclusão do Módulo 04", description: "Você está pronto para liderar projetos de IA com ética, segurança e qualidade profissional.", image: "images/img14.png" }
-incípios da Microsoft: Justiça, Confiabilidade, Privacidade, Segurança, Inclusão e Transparência.", image: "/images/img27.png" },
-  { id: 20, title: "Conclusão do Módulo 04", description: "Você está pronto para liderar projetos de IA com ética, segurança e qualidade profissional.", image: "/images/img14.png" }
 ];
 
 export const slidesData = {
